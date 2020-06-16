@@ -11,3 +11,5 @@ Encoding: UTF8-MAC
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+BuildType: Website
