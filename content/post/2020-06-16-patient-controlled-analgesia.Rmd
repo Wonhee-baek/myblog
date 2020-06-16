@@ -19,7 +19,11 @@ tags: []
 
 --- 
 # PCA의 종류와 약제 
+- IV PCA 
 
+- Epidural PCA
+
+- Nerve PCA
 ---
 # PCA의 부작용
 
