@@ -1,0 +1,28 @@
+---
+title: Patient controlled analgesia
+author: Baek, wonhee
+date: '2020-06-16'
+slug: patient-controlled-analgesia
+categories:
+  - R
+tags: []
+---
+
+# PCA(Patient Controlled Analgesia)
+- 어떤 방법이든, 어떤 ᄅ 환자 스스로 진통제를 투여할 수 있는 자가 통증 조절법 
+
+--- 
+# 자가통증조절기(PCA)
+- 물ᄅ PCA 
+
+- 기계식 PCA 
+
+--- 
+# PCA의 종류와 약제 
+
+---
+# PCA의 부작용
+
+---
+# 간호 내용 
+
