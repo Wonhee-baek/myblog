@@ -45,15 +45,15 @@ MEAC(Minimum effective analgesic concentration)
 
 ## PCA의 종류ᄋ 약제 
 
-- IV PCA 
+- IV PCA : 정맥 혈관을 통해 PCA 연결
 
-- Epidural PCA
+- Epidural PCA: 경맥 외강을 통해 PCA 연결 
 
 - Nerve PCA
 
 ---
 
-## PCA의 부작용
+## PCA의 부
 
 ---
 
