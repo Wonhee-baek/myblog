@@ -55,6 +55,8 @@ MEAC(Minimum effective analgesic concentration)
 
 ## PCA의 부작용
 
+- 마약성 진통제의 부작용 
+
 ---
 
 ## 모니터링 
