@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-ko"
 title = "Wonhee Baek"
-theme = "hugo-lithium"
+theme = "blog"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
